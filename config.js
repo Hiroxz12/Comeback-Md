@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6285732267014', '️One', true],
+  ['6285732267014', '️Two', true],
+  ['6285732267014', '️Three', true],
+  ['6285732267014', '️Four', true],
+  ['6285732267014', '️Five', true],
+  ['6285732267014', '️Six', true],
+  ['6285732267014', '️Seven', true],
+  ['6285732267014', '️Eight', true],
+  ['6285732267014', '️Nine', true],
+  ['6285732267014', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -454,16 +454,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.dana = '085732267014'
+global.pulsa = '085732267014'
 global.trakteer = ''
 global.paypal = ''
 global.gopay = ''
-global.pdana = '085380166282'
+global.pdana = '085732267014'
 global.povo = ''
 global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085380166282'
+global.ppulsa = '085714279344'
+global.ppulsa2 = '085714279344'
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*Emoji*/
